@@ -1,0 +1,45 @@
+2017-09-21 10:24:49,893 [Thread-0] INFO  mtdp.service.DBComparer - Not Match Detail:
+2017-09-21 10:24:49,893 [Thread-0] INFO  mtdp.service.DBComparer - DB base Table:
+2017-09-21 10:24:49,893 [Thread-0] INFO  mtdp.service.DBComparer - 
+Table(cybr_u_checkout_detail) : [vch_trid,ch_czhyflag]
+Table(cybr_mhq_icsetup) : [ch_tranflag,ch_autosendflag]
+Table(cyhq_m_member_deposit) : [ch_paymodeno,ch_wxflag]
+Table(cybr_m_coupon) : [vch_memberno,num_amount,dt_operdate,vch_operID,ch_couponno]
+Table(cyhq_m_member_coupon) : [vch_memberno,ch_branchno,int_flowID,vch_operID,dt_operdate,ch_couponno,vch_memo,ch_upflag,num_give,num_use,ch_payno]
+Table(cybr_mhq_member_deposit) : [ch_paymodeno,ch_wxflag]
+Table(cybr_mhq_member_coupon) : [vch_memberno,ch_branchno,int_flowID,vch_operID,dt_operdate,ch_couponno,vch_memo,ch_upflag,num_give,num_use,ch_payno]
+Table(cybr_u_orderdish_wx) : [id,vch_dishno,num_num,vch_memo,vch_dishname,dt_date,vch_wxid,num_price]
+Table(cybr_u_checkout_wx) : [num_paymc,vch_trid,num_payamt,num_paywx,num_discount,vch_cate,num_amt,num_payco,vch_mbaccid,id,vch_mbcardno,vch_payid,vch_mblevel,ch_state,num_payali,vch_jztime,vch_scr,num_paypt]
+Table(cybr_mhq_bt_coupon) : [ch_paymodeno,num_faceamt,ch_couponno,ch_flag,vch_couponname]
+Table(cybr_cp_printer_error_message) : [vch_print,vch_errtext,dt_error]
+Table(cyhq_m_icsetup) : [ch_tranflag,ch_autosendflag]
+Table(cybr_u_checkout_detail_h) : [ch_change_flag,vch_trid,num_money_change,ch_prior_payflag,num_realamount,ch_deflag,dt_operdate,num_money_amount,int_flowid,ch_money_id,num_money_realamount,vch_computer,num_money_diff,num_card_amount,vch_operID,ch_paymodeno,num_card_point,num_exchange_rate,vch_memo,ch_hqflag,num_point,num_payamount,num_face,ch_payno,num_change,ch_czhyflag,vch_voucherno]
+Table(cybr_m_member_coupon) : [vch_memberno,int_flowID,vch_operID,dt_operdate,ch_couponno,vch_memo,num_give,num_use,ch_payno]
+Table(cybr_m_member) : [vch_wxtrf,vch_wxcardid]
+Table(cybr_bt_paymode) : [vch_xjflag,vch_scr]
+Table(cyhq_m_coupon) : [vch_memberno,ch_branchno,num_amount,dt_operdate,vch_operID,ch_couponno,ch_upflag]
+Table(cybr_u_table_h) : [int_print,vch_operID,ch_tableno,vch_memo,ch_order_state,num_cost,vch_markid,ch_price,ch_old_tableno,room_type,ch_wxzf,vch_carID,int_person,ch_state,dt_operdate,vch_waiterno,int_hour,ch_billno,ch_payno]
+Table(cybr_bt_gift) : [num_pointmoney]
+Table(cybr_m_member_deposit) : [ch_paymodeno,ch_wxflag]
+Table(cybr_mhq_coupon) : [vch_memberno,ch_branchno,num_amount,dt_operdate,vch_operID,ch_couponno,ch_upflag]
+Table(cybr_u_master_wx) : [vch_addr,ch_type,vch_memo,vch_phone,vch_cust,int_pscount,dt_date,vch_cate,vch_wxid,dt_time,vch_cfmuser,id,vch_cfmcode,vch_payid,int_count,ch_state,vch_table,dt_cfmtime,vch_billno]
+Table(cybr_u_orderdish_h) : [ch_change_dishno,int_discount,num_num,dt_out_operdate,back_je,ch_payflag,vch_memberno,ch_suitno,num_out,ch_numflag,ch_outflag,vch_khno,vch_operID,dt_dis_operdate,ch_presentflag,ch_tableno,ch_togono,num_price_add,vch_dis_operID,vch_spec,num_price_org,ch_favourable,vch_saleID,ch_suitflag,vch_print_memo,dt_pay_operdate,zcyy,vch_cancel_operID,num_price,dt_cancel_operdate,ch_specialflag,int_id,vch_out_operID,dt_operdate,dt_pre_operdate,vch_pre_operID,ch_cancelflag,ch_dis_mode,ch_dishno,vch_reason,int_flowid,vch_computer,back_sl,cpwm,int_print_id,ch_hungflag,zkyy,wirless_no,ch_printflag,int_material_rate,ch_billno,vch_pay_operid,num_yhe,int_out_id2,ch_payno,int_out_id1]
+Table(cybr_u_master_h) : [ch_state,vch_operID,dt_operdate,dt_operdate2,vch_memo,ch_bookno,ch_billno,open_no,vch_operID2,num_book_deposit]
+Table(cyhq_m_bt_coupon) : [ch_paymodeno,num_faceamt,ch_couponno,ch_flag,vch_couponname]
+Table(cybr_bt_coupon) : [ch_paymodeno,num_faceamt,ch_couponno,ch_flag,vch_couponname]
+Table(cybr_cp_service_message) : [dt_last,ch_action]
+Table(cybr_u_checkout_master_h) : [num_hungbill,num_free,num_discount,dt_cancel,num_cost,num_cash,vch_cancel_operID,ch_state,ch_giftflag,dt_operdate,ch_transwx,vch_computer,vch_run_operid,num_gift,num_other,vch_operID,num_service,ch_tableno,num_run,num_present,num_lowcost,ch_billno,num_yhe,vch_free,num_blotout,ch_payno]
+Table(cybr_u_table) : [ch_wxzf]
+Table(cybr_cp_project) : [ch_ipaddress]
+Table(cybr_bt_dish) : [ch_weighflag]
+Table(cyhq_bt_dish) : [ch_weighflag]
+Table(cybr_u_checkout_master) : [ch_transwx]
+
+2017-09-21 10:24:49,893 [Thread-0] INFO  mtdp.service.DBComparer - DB cmp Table:
+2017-09-21 10:24:49,894 [Thread-0] INFO  mtdp.service.DBComparer - 
+
+2017-09-21 10:24:49,894 [Thread-0] INFO  mtdp.service.DBComparer - "原数据库匹配目标数据库百分比 ： 87.56 %"
+2017-09-21 10:24:49,894 [Thread-0] INFO  mtdp.service.DBComparer - "目标数据库匹配原数据库百分比 ： 100.00 %"
+2017-09-21 10:24:49,894 [Thread-0] INFO  mtdp.service.DBComparer - End DatabaseCompare Test
+2017-10-11 11:37:51,697 [main] INFO  mtdp.util.PathUtil - /Users/king_luffy/Documents/develop/javaProject/PlayStation/mtdpEnverionmentDetect/target/classes/mtdp/util/
+2017-10-11 11:39:11,314 [main] INFO  mtdp.util.PathUtil - /Users/king_luffy/Documents/develop/javaProject/PlayStation/mtdpEnverionmentDetect/target/classes/
