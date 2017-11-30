@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../MavenPlayground/src/main/java/com/kingluffy/lernen/util/TimeHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../MavenPlayground/src/main/resources/aop.xml">
           <value>
             <set />
@@ -118,12 +123,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/mtdp/dao/DBInfoFetchMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/mtdp/dao/DBSessionMapper.java">
           <value>
             <set />
           </value>
@@ -218,6 +233,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/mtdp/service/ThreadTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/java/mtdp/util/ConnectionUtil.java">
           <value>
             <set />
@@ -283,12 +303,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/mtdp/mapper/DBSessionMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/mtdp/sessionTest/DBSessionMapper.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/main/resources/mybatis-config.xml">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/mtdp/DBComparerTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/mtdp/DBSessionTest.java">
           <value>
             <set />
           </value>
@@ -304,6 +339,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-g4-util/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-g4-util/src/main/java/com/dianping/orderdish/dbh/fetchorder/common/util/proxy/ProxyHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-g4-util/src/main/java/com/dianping/orderdish/dbh/fetchorder/common/util/proxy/ProxyHelper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-g4-util/src/main/java/com/dianping/orderdish/dbh/fetchorder/common/util/proxy/TimeHelper.java">
           <value>
             <set />
           </value>
@@ -723,12 +773,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/function/OperaterFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/function/OrderFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/function/TableFunction.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/service/base/AbstractCreateOrderBaseService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/service/base/PosOrderDockingService.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/service/base/PosOrderDockingServiceBase.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sourceTree/orderdish-dbh-plugins-group4/orderdish-dbh-zhimenhuashan-plugin/src/main/java/com/dianping/orderdish/dbh/huashan/service/base/PrintServiceBase.java">
           <value>
             <set />
           </value>

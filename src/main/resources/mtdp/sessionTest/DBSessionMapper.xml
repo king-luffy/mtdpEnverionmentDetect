@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="mtdp.dao.DBSessionMapper">
+
+    <update id="updateLegal">
+        <![CDATA[
+			UPDATE cyhq_bt_area
+			SET vch_branch_areaname = '华北1'
+			WHERE ch_branch_areano = '06'
+        ]]>
+    </update>
+
+    <update id="undateIlligal">
+        <![CDATA[
+          UPDATE cyhq_bt_area
+			SET vch_branch_areaname = '华北1'
+			WHERE ch_branch_areano1 = '06'
+        ]]>
+    </update>
+
+</mapper>

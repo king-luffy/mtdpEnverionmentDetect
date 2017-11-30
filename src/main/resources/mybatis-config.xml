@@ -26,5 +26,6 @@
 	</environments>
 	<mappers>
 		<mapper resource="mtdp/mapper/DBInfoFetchMapper.xml"/>
+		<mapper resource="mtdp/sessionTest/DBSessionMapper.xml"/>
 	</mappers>
 </configuration>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.everit.osgi.bundles:org.everit.osgi.bundles.org.json:1.0.0-v20140107">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/everit/osgi/bundles/org.everit.osgi.bundles.org.json/1.0.0-v20140107/org.everit.osgi.bundles.org.json-1.0.0-v20140107.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/everit/osgi/bundles/org.everit.osgi.bundles.org.json/1.0.0-v20140107/org.everit.osgi.bundles.org.json-1.0.0-v20140107-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/everit/osgi/bundles/org.everit.osgi.bundles.org.json/1.0.0-v20140107/org.everit.osgi.bundles.org.json-1.0.0-v20140107-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

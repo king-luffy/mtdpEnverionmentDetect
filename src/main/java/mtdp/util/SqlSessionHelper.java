@@ -16,7 +16,7 @@ import java.util.Properties;
 public class SqlSessionHelper {
     private static Logger LOGGER = Logger.getLogger(SqlSessionHelper.class);
     public static final int DEFAULT_DB_LOGIN_TIMEOUT_SEC = 3;
-    private static final String JDBC_CONFIG = "jdbc";
+    private static final String JDBC_CONFIG = "jdbc.properties";
     private static final String MYBATIS_CONFIG = "mybatis-config.xml";
     private static int DB_LOGIN_TIMEOUT_SEC = 3;
     private static ThreadLocal<SqlSession> sqlSessionThreadLocal = new ThreadLocal();
@@ -129,7 +129,7 @@ public class SqlSessionHelper {
 
 
         public SqlSessionFactory getSqlSessionFactory() {
-            setSqlSessionFactory("jdbc");
+            setSqlSessionFactory(JDBC_CONFIG);
             return this.sqlSessionFactory;
         }
         public SqlSessionFactory getSqlSessionFactory(String property) {
